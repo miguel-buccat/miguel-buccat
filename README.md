@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="me.png" alt="Profile Picture" width="150" />
-  <h2>Miguel Buccat</h2>
   <p>
     <em>"In a world that desperately wants you to be nothing, rebel by trying to become everything" — me</em>
   </p>
