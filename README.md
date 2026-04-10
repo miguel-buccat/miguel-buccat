@@ -1,4 +1,5 @@
 <div align="center">
+  <h1>Miguel Buccat</h1>
   <p>
     <em>"In a world that desperately wants you to be nothing, rebel by trying to become everything" — me</em>
   </p>
